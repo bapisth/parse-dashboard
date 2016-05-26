@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://instahemclone.herokuapp.com/parse",
+    "appId": "instagram11061990pinky",
+    "masterKey": "hemendraesspl2014",
+    "appName": "Hemednra",
     "iconName": ""
   }],
   "iconsFolder": "icons"
