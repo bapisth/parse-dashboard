@@ -1,0 +1,10 @@
+{
+  "apps": [{
+    "serverURL": "http://localhost:1337/parse",
+    "appId": "bapi7011appid",
+    "masterKey": "bapi7011masterid",
+    "appName": "Hemednra",
+    "iconName": ""
+  }],
+  "iconsFolder": "icons"
+}
